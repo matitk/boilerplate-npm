@@ -2,11 +2,18 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "matitk",
 	"description": "Just a simple boilerplate for learning npm package.json",
-	"keywords":["freecodecamp","learn","npm","package","json"],
+	"keywords": [
+		"freecodecamp",
+		"learn",
+		"npm",
+		"package",
+		"json"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.29.3"
 	},
 	"main": "server.js",
 	"scripts": {
